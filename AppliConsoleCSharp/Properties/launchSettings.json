@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AppliConsoleCSharp": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
